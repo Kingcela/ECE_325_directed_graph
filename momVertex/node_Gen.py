@@ -1,5 +1,5 @@
-node_num = 8846
-i = 8717
-while i < node_num:
-    print(i)
-    i+=1
+def add1(i, j) :
+    return(i + j)
+
+a = add1(2, 3)
+print(a)
